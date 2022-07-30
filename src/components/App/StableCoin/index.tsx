@@ -5,7 +5,7 @@ import { Row, RowBetween, RowEnd } from 'components/Row'
 
 export const Container = styled(Row)`
   flex-flow: column nowrap;
-  overflow: visible;
+  /* overflow: visible; */
   margin: 0 auto;
 `
 
