@@ -32,8 +32,8 @@ import { Token } from '@sushiswap/core-sdk'
 import { Info } from 'components/Icons'
 import { BRIDGE__TOKENS } from 'constants/inputs'
 import ChainsModal from 'components/App/Bridge/ChainsModal'
-import { BridgeClient } from 'lib/muon'
-import { BRIDGE_ADDRESS } from 'constants/addresses'
+// import { BridgeClient } from 'lib/muon'
+// import { BRIDGE_ADDRESS } from 'constants/addresses'
 
 const MainWrap = styled(RowCenter)`
   align-items: flex-start;
